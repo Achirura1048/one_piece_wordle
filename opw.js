@@ -1,4 +1,4 @@
-fetch('http://127.0.0.1:5500/opw.json')
+fetch('http://consria.net/opw.json')
     .then((response) => response.json())
     .then((json) => {
         var chars = json; 
