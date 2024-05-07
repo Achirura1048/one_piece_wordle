@@ -1,4 +1,4 @@
-fetch('/opw.json')
+fetch('opw.json')
     .then((response) => response.json())
     .then((json) => {
         var chars = json; 
