@@ -1,4 +1,4 @@
-fetch('http://consria.net/opw.json')
+fetch('https://achirura1048.github.io/one_piece_wordle/opw.json')
     .then((response) => response.json())
     .then((json) => {
         var chars = json; 
