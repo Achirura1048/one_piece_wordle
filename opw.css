@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+.mainbox{
+    display: grid;
+    justify-content: center;
+}
+
+
+.box1{
+    display: grid;
+    grid-template-columns: repeat(8, 12.5%); /* 100 / 8 = 12.5% */
+    text-align: center;
+    
+    margin-bottom: 2%;
+    
+
+}
+.underline{
+    text-decoration: underline;
+    margin-top: 2%;
+}
+
+.box2 .ibox{
+    border: 1px black solid;
+    gap: 0;
+    
+    
+
+}
+
+.resim {
+    /* Ensure the image fills its container */
+    width: 100%;
+    height: 100%;
+    object-fit:fill;
+    border: none;
+}
+
+.box2{
+    display: grid;
+    grid-template-columns: repeat(8, 12.5%); /* 100 / 8 = 12.5% */
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+
+

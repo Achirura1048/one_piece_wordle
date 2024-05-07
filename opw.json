@@ -1,0 +1,28 @@
+[
+    {
+        "img": "/rsm/1.jpg",
+        "name": "Monkey D. Luffy",
+        "alias": ["Strawhat"],
+        "gender": "Male",
+        "crew": "Strawhat Pirates",
+        "df": ["Paramecia"],
+        "haki": ["conq", "arm", "obv"],
+        "bounty": 3000000000,
+        "height": 1.74,
+        "origin": "East Blue",
+        "arc": "Romance Down"
+    },
+    {
+        "img": "/rsm/2.jpg",
+        "name": "Nami",
+        "alias": ["Cat Burglar"],
+        "gender": "female",
+        "crew": "Strawhat Pirates",
+        "df": ["none", "none"],
+        "haki": ["none", "none", "none"],
+        "bounty": 366000000,
+        "height": 1.70,
+        "origin": "East Blue",
+        "arc": "Romance Down"
+    }
+]
