@@ -1,4 +1,4 @@
-fetch(' https://achirura1048.github.io/opw.json')
+fetch('/opw.json')
     .then((response) => response.json())
     .then((json) => {
         var chars = json; 
